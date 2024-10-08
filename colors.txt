@@ -1,4 +1,14 @@
+<<<<<<< HEAD
 cyan
 yellow
 magenta
 black
+=======
+red
+green
+blue
+black
+white
+
+
+>>>>>>> colorchanges
