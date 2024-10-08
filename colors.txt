@@ -2,3 +2,7 @@ cyan
 yellow
 magenta
 black
+<<<<<<< HEAD
+=======
+white
+>>>>>>> colorchanges
